@@ -13,7 +13,7 @@
 #### Let assume our project name will be Cryptocurrency-News-Site
  1. First clone this project or fork and clone your fork url
  
-* `git clone https://github.com/mahmudahsan/pythonbangla.com.git djangodemo`
+* `git clone https://github.com/SAMAWELJABALLI/Cryptocurrency-News-Site.git`
 * `cd djangodemo # Enter the project dir`
 2. Now run and install django by pipenv
 
